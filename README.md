@@ -11,7 +11,9 @@
 
 ------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bococ&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical)
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bococ&layout=compact&theme=radical)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=Kube-Prometheus&show_icons=true&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=img-api&show_icons=true&theme=radical)
 
