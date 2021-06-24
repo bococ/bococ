@@ -11,7 +11,7 @@
 
 ------
 
-!(http://img-api.bococ.cn/)(https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical)
+![http://img-api.bococ.cn/](https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical)
 ---
 
 <a href="https://github.com/bococ/Kube-Prometheus">
