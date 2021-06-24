@@ -11,7 +11,9 @@
 
 ------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical)
+<a href="https://github.com/bococ/ansible-install-k8s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical" />
+</a>
 ---
 <a href="https://github.com/bococ/Kube-Prometheus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=Kube-Prometheus&show_icons=true&theme=radical" />
