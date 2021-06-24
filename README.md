@@ -31,6 +31,4 @@
 <a href="https://github.com/bococ/ansible-install-k8s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=ansible-install-k8s&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/bococ/ansible-install-k8s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bococ&hide=javascript,html,css,jinja&layout=compact&theme=radical" />
-</a>
+
