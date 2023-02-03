@@ -14,6 +14,9 @@
 ![http://img-api.bococ.cn/](https://github-readme-stats.vercel.app/api?username=bococ&show_icons=true&theme=radical)
 ---
 
+<a href="https://github.com/bococ/Charts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=Kube-Prometheus&show_icons=true&theme=radical" />
+</a>
 <a href="https://github.com/bococ/Kube-Prometheus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=Kube-Prometheus&show_icons=true&theme=radical" />
 </a>
