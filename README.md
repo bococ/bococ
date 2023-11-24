@@ -11,7 +11,8 @@
 
 ------
 
----
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bococ)](https://github.com/anuraghazra/github-readme-stats)
+-----------------------
 
 <a href="https://github.com/bococ/trino-operator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bococ&repo=trino-operator&show_icons=true&theme=radical" />
